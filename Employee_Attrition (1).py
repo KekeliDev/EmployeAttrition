@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 15 19:03:50 2020
 
-@author: BERON INTELLIGENCE
+@author: Aaron Kofi Gayi
 """
 
 
